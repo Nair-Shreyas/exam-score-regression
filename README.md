@@ -1,4 +1,4 @@
-# Exam Score Prediction — Regression Models
+# Exam Score Prediction: Regression Models
 
 ![Project Overview](docs/images/1_project_overview.png)
 
